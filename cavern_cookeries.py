@@ -372,6 +372,7 @@ class Cavern:
                 self._game_state = "FINISHED"
 
 
+
 if __name__ == '__main__':
 
     my_game = Cavern()
