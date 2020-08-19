@@ -80,9 +80,14 @@ class Recipe_Book():
         ]
 
         text_2 = [
-            "You wait with bated breath as you watch Ignis take a",
-            "bite of your dish. Though you’re overwhelmed with ",
-            anxiety and consumed with extreme exhaustion, you don’t miss the subtle change in your mentor’s expression."
+            "You wait with bated breath as you watch Ignis take",
+            "a bite of your dish. It’s been a long day of",
+            "exploring dangerous caverns, battling monsters to ",
+            "the death, and cooking over a hot stove… but you",
+            "feel your exhaustion melt away once you see ",
+            "your mentor’s face. ",
+            "  ",
+            "You see a single tear roll down his face. "
             ]
 
         text_3 = ["LEVEL UP! You are now a MASTER CHEF!"]

@@ -375,5 +375,4 @@ class Cavern:
 if __name__ == '__main__':
 
     my_game = Cavern()
-    my_game.add_monster(Dragon, "a", 1, 2, 2)
     my_game.start_game()
