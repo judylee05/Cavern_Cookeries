@@ -12,3 +12,4 @@ In Cavern Cookeries, you control a young chef exploring a dangerous cavern full 
 
 This text-based game allows the Player to explore three different levels of the cavern, where they can battle monsters, collect dropped food items, and create a delicious meal at the end.
 
+![demo_gif](demo/battle_gif.gif)
